@@ -1,0 +1,13 @@
+
+
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitatrisk"
+ Start_Row: 3
+ File_Path: "D:\\PES_Automation\\atrisk-sit\\At_Risk_Config_Workbook_1.0.xlsx"

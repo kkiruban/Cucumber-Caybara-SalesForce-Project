@@ -1,0 +1,35 @@
+Users:
+ Sheetname: "Users"
+ Username: "C"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ Start_Row: 3
+ File_Path: "D:\\BD_automation\\BD_SIT\\BD 1 Platform Config Workbook -v1 0 (2).xlsx"
+
+
+ExchangeRate:
+ Sheetname: "FicoExchangeRate"
+ Currency Code: "A"
+ Exchange Rate: "B"
+ Start Date: "C"
+ End Date: "D"
+ Year: "F"
+ Start_Row: 2
+ File_Path: "D:\\Konnica\\Konica_pro\\Konica Minolta_Configuration_guide_v1 7.xlsx"
+
+CommonData:
+ Current Health Status: ["--None--","None","Healthy","Not Contacted","Contacted","Risk","No Service","House Account","Quote Request","Rough Quote Delivered","Quote Delivered","Customer Commitment(Replacement)","Closed by KMJ(No SSI Impact)","Closed Sale(Replacement)","Hold","Customer Commitment(Adds)","Closed by KMJ(SSII Impact)","Closed Sale(Adds)"]
+ Company Type: ["--None--","None","Customer Care","Hunting","Collaboration"]
+ At Risk Reason: ["--None--","None","Machine Trouble","Competitor","Price Satisfaction","Budget Matter","Usage","Other"]
+ Commit Level: ["--None--","None","Black","Red","Yellow","Green"]
+ Channel Tier: ["--None--","None","Direct"]
+ Status: ["--None--","Active","Inactive"]
+ Product Line: ["--None--","Accuri","Calibur","Canto","FACScan","FACSCount","FACSDiva","FACSLINK","FACSort","FFSS","Fortessa","Fortessa Dual","HTS","Jazz","Loader","LSR","LWA","Medimachine","MicroCount","Pathway","Solubility Scanner","Vantage"]
+ Client Region: ["Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin"]
+ Client Territory: ["ED 1","ED 2","ED 3","ED 4","WD 1","WD 2","WD 3","WD 4"]
+ Batch Type: ["--None--","Expired","IBOW","Renewal","Warranty","Adds/Recovery Expired","Adds/Recovery Renewal","Adds/Recovery Uncovered","Campaign"]
+ Renewal Status: ["--None--","Open","CS - Backdated - BKD","CS - Co-term Long - CTL","CS - Co-term Short - CTS","CS - Discount - DIS","CS - Multi-year Advance - MYA","CS - Multi-year Annual - MYY","CS - Pricing Change - PRC","CS - Re-Cert Fee Included - RCT","CS - Renewed at Par - R@P","CS - Service Downgrade - DNG","CS - Service Upgrade - UPG","CS - Uncovered - UNC","NS - Competitive Product Replacement - PCP","NS - Competitive Service Loss Other - SCS","NS - Customer No Longer Exists - RNE","NS - Customer Satisfaction Driven - SSD","NS - Product Decommissioned - PPD","NS - Unresponsive End User - REU","NS - Cost Benefit/Budget - CBB","NS - Cost Benefit/Value - CBV","NS - Instrument Low Usage - ILU","NS - In-House Service Provider - ISP","NS - Time and Materials - TNM","HA - Bad Data - BDT","HA - Cancelled - CNL","HA - Covered - COV","HA - Duplicate - DUP","HA - End of Life - EOL","HA - Other - OTH","HA - Product Return - PRT","HA - Sales Pull Back - SPB","HA - Client Product Replacement - CPR","HA - System Relocation - SRL"]

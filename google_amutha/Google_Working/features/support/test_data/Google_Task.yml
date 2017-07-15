@@ -1,0 +1,4 @@
+---
+task_details:
+ sub_task_type: "--None--,CTAS,LDoS,NOS,Renewal,Smart Assist,Uncovered,Win Back,Other"
+ Cisco_Health_Status: "Healthy,Low Risk,Moderate Risk,High Risk,No Health Score"

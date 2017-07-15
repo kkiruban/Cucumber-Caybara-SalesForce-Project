@@ -1,0 +1,44 @@
+
+Admin:
+  Username: "dsintegration-admin@servicesource.com.sitadopt"
+  Password: "srevds123!"
+
+OpsManager:
+  Username: "ciscoadopt.opsmgr@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+nalaopsrepsit:
+  Username: "ciscoadopt.opsrep@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+nalasalesrepsit:
+  Username: "ciscoadopt.salesrep@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+nalasalesmgrsit:
+  Username: "ciscoadopt.salesmgr@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+nalasalesopssit:
+ Username: "ciscoadopt.salesops@servicesource.com.sitadopt"
+ Password: "testciscoadopt123!"
+
+apacopsmgrsit:
+  Username: "ciscoadopt.opsmgrapac@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+apacopsrepsit:
+  Username: "ciscoadopt.opsrepapac@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+apacsalesrepsit:
+  Username: "ciscoadopt.salesrepapac@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+apacsalesmgrsit:
+  Username: "ciscoadopt.salesmgrapac@servicesource.com.sitadopt"
+  Password: "testciscoadopt123!"
+
+apacsalesopssit:
+ Username: "ciscoadopt.salesopsapac@servicesource.com.sitadopt"
+ Password: "testciscoadopt123!"

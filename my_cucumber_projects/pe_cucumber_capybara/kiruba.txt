@@ -1,0 +1,17 @@
+[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m[36m-[0m
+
+[36m/^I fill "([^"]*)" as "([^"]*)"$/[0m
+[36m/^I follow "([^"]*)" link$/[0m
+[36m/^I should click on "([^"]*)" button$/[0m
+[36m/^I should land on salesforce application homepage$/[0m
+[36m/^I should see "([^"]*)" link$/[0m
+[36m/^I should see "([^"]*)"$/[0m
+[36m/^I should see the following links:$/[0m
+[36m/^I should see:$/[0m
+[36m/^I should visit saleforce website$/[0m
+[36m/^I wait for "([^"]*)" seconds$/[0m
+
+2 scenarios ([36m2 skipped[0m)
+19 steps ([36m19 skipped[0m)
+
+sess.driver.close_window(sess.driver.current_window_handle)

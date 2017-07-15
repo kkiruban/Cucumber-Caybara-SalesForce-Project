@@ -1,0 +1,32 @@
+
+adminsit:
+ Username: "gehealth.admin@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+salesrepsit:
+ Username: "gehealth.salesrep@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+basit:
+ Username: "gehealth.ba@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+salesmgrsit:
+ Username: "gehealth.salesmgr@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+opsmgrsit:
+ Username: "gehealth.opsmgr@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+opsrepsit:
+ Username: "gehealth.opsrep@servicesource.com.sitghealth"
+ Password: "testgehealth123!"
+
+salesopssit:
+ Username: "gehealth.salesops@serviceosource.com.sitghealth"
+ Password: "testgehealth123!"
+
+salesasso:
+ Username: "gehealth.salesasso@servicesource.com.sitghealth"
+ Password: "testgehealth123!"

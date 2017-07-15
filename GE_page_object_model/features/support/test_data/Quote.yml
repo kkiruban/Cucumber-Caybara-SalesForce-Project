@@ -1,0 +1,15 @@
+
+picklistdetailsquotes:
+  quote_type_year: "--None--,1,2,3,4,5,Co-Term,Multi-Year"
+
+create_New_quote:
+  Quote_Type: "Direct"
+  Quote_Type_Year: "4"
+  Earliest_New_Start_Date: "3/1/2016"
+  Latest_New_End_Date: "3/1/2016"
+  Transaction_Amount: "5000"
+  currency: "GBP - British Pound"
+
+currency_value:  
+  GBP: "GBP - British Pound"
+  USD: "USD - U.S. Dollar"

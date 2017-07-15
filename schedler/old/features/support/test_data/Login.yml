@@ -1,0 +1,25 @@
+
+
+SchneiderAdmin:
+ Username: "dsintegration-admin@servicesource.com.sitschneid"
+ Password: "srevds123!"
+
+SchneiderSalesRepSit:
+ Username: "schneider.salesrep@servicesource.com.sitschneid"
+ Password: "testschneider123!"
+
+SchneiderSalesManagerSit:
+ Username: "schneider.salesmgr@servicesource.com.sitschneid"
+ Password: "testschneider123!"
+
+SchneiderOperationManagerSit:
+ Username: "schneider.opsmgr@servicesource.com.sitschneid"
+ Password: "testschneider123!"
+
+SchneiderOperationRepSit:
+ Username: "schneider.opsrep@servicesource.com.sitschneid"
+ Password: "testschneider123!"
+
+SchneiderSalesOperationSit:
+ Username: "schneider.salesops@servicesource.com.sitschneid"
+ Password: "testschneider123!"

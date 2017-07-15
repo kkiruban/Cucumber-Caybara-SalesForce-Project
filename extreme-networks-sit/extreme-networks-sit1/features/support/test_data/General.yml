@@ -1,0 +1,21 @@
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitschneid"
+ Start_Row: 3
+ File_Path: "D:\\Extreme-Network-15-may-2017-begining\\extreme-networks-sit\\Extreme 1P Config Workbook v1.3.xlsx"
+
+Exchange Rate:
+  CurrencyCode: ["EUR","USD"]
+  EUR: ["EUR","1.049999"]
+  USD: ["USD","1.000000"]
+
+  
+  
+  
+

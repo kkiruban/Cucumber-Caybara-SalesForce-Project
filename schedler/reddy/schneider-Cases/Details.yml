@@ -1,0 +1,120 @@
+
+GeneralInformation:
+ EMEASunday: "Sunday"
+ BusinessHoursSunday: "No Hours"
+ EMEAMonday: "Monday"
+ EMEATuesday: "Tuesday"
+ EMEAWednesday: "Wednesday"
+ EMEAThursday: "Thursday"
+ EMEAFriday: "Friday"
+ EMEASaturday: "Saturday"
+ BusinessHoursSaturday: "No Hours"
+
+
+AccountTypePickListValues:
+ TypePartner: "Partner"
+ TypeProximity: "PROXIMITY"
+ TypeDosti: "Disti"
+
+
+AccountLeadStatusPickListValues:
+ LeadStatusContacted: "Contacted"
+ LeadStatusNurturing: "Nurturing"
+ LeadStatusQualified: "Qualified"
+ LeadStatusUnqualified: "Unqualified"
+ LeadStatusOnHold: "On Hold"
+
+
+NewContactInformation:
+ NoContactsMessage: "No Records to display."
+ ContactFirstName: "Smoke"
+ ContactLastName: "Smoke_Test_Contact_"
+ ContactAccountName: "Smoke_Test_Account"
+
+
+NewLeadInformation:
+ FirstName: "Smoke"
+ LeadStatus: "Contacted"
+ LastName: "Smoke_Test_Lead_"
+ Company: "SalesForce"
+ LeadCurrency: "USD - U.S. Dollar"
+ LeadSourceODS: "ODS"
+ LeadSourceWeb: "Web"
+ LeadSourcePhoneInquiry: "Phone Inquiry"
+ LeadSourcePartnerReferral: "Partner Referral"
+ LeadSourcePurchasedList: "Purchased List"
+ LeadSourceOther: "Other"
+
+
+NewAccountInformation:
+ AccountName: "Account Name"
+ ParentAccount: "Parent Account"
+ AccountCurrency: "Account Currency"
+ AccountOwner: "Account Owner"
+ AccountType: "Type"
+ AccountZipCodeTextBox: "text"
+ SalesCenterDefaultValue: "Liverpool"
+ AccountRequiredName: "Smoke_Test_Account_"
+ ParentAccountName: "smoke-test"
+
+
+NewTaskInformation:
+ TaskEmail: "Task - Email"
+ TaskFax: "Task - Fax"
+ TaskInbox: "Task - Inbox"
+ TaskPhoneCalls: "Task - Phone Calls"
+ TaskStandard: "Task - Standard"
+ MyTasksSection: "My Tasks"
+ TaskAssignedTo: "Assigned To"
+ AdminAssignedTo: "DSIntegration Admin"
+ OpeManagerAssignedTo: "Operations Manager Schneider"
+ SalesManagerAssignedTo: "Sales Manager Schneider"
+ SalesRipAssignedTo: "Sales Rep Schneider"
+ OpesRipAssignedTo: "Operations Rep Schneider"
+ SalesOpsAssignedTo: "Sales Ops Schneider"
+ TaskContactName: "Mailene-Test"
+ TaskRelatedTo: "Mailene-Test"
+ TaskPriority: "Normal"
+ TaskStatus: "Not Started"
+ TaskDueDate: "11/13/2017"
+ TaskSubjectName: "Smoke_Test_"
+ TaskComments: "Smoke Testing"
+ TaskDirection: "Incoming"
+ TaskHealthStatusReason: "Past due invoices"
+ NoOpenTasksMessage: "You have no open tasks scheduled for this period"
+
+
+NewCasesInformation:
+ CaseTypeBookingRequest: "Booking Request"
+ CaseTypeDataUpdateRequest: "Data Update Request"
+ CaseTypeLeadSubmission: "Lead Submission"
+ CaseTypeQuoteRequest: "Quote Request"
+ CaseTypeReportingRequest: "Reporting Request"
+ CasesStatus: "New"
+ CasesSubCaseType: "New"
+ CasesLeadSubCaseType: "None"
+ CasesDataUpdateRequest: "Booking Reconciliation"
+ CasesRenewalStatusValue: "House Account"
+ CasesDescription: "Smoke Testing"
+ CasesContractAmount: "100"
+ CasesPriority: "High"
+ ProductThasNeedsToBeQuoted: "Product Quoted"
+ ApplicableDiscounts: "Discounts"
+ LeadSubmissionDetailsSection: "Lead Submission Details"
+ NewTermDates: "New Terms and Conditions"
+ CasesQuoteType: "1 Year"
+ CasesOpportunity: "Smoke"
+ BookingRequestDetails: "Booking Request Details"
+ CasesContactName: "Smoke"
+ CasesAdminContactName: "DSIntegration Admin"
+ QuoteRequestDetailsSection: "Quote Request Details"
+ CasesTargetDate: "1/13/2017"
+ CaseOpportunityName: "Smoke"
+ CaseContactName: "Smoke_Contact"
+ CaseSaveButton: "Save"
+ CasesDetailsPage: "Case Detail"
+ NoCasesMessage: "No Records to display."
+ CasesPriorityHigh: "High"
+ CasesPriorityNormal: "Normal"
+ CasesPriorityLow: "Low"
+ CasesBusinessHours: "EMEA"

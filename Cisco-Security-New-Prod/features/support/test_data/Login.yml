@@ -1,0 +1,24 @@
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.1pcisco"
+ Password: "srevds123!"
+
+SalesRepSit:
+ Username: "1pcisco.salesrep@servicesource.com.1pcisco"
+ Password: "testcisco123!"
+
+SalesManagerSit:
+ Username: "1pcisco.salesmgr@servicesource.com.1pcisco"
+ Password: "testcisco123!"
+
+OperationManagerSit:
+ Username: "1pcisco.opsmgr@servicesource.com.1pcisco"
+ Password: "testcisco123!"
+
+OperationRepSit:
+ Username: "1pcisco.opsrep@servicesource.com.1pcisco"
+ Password: "testcisco123!"
+
+SalesOperationSit:
+ Username: "1pcisco.salesops@servicesource.com.1pcisco"
+ Password: "testcisco123!"

@@ -1,0 +1,46 @@
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.sitextreme"
+ Password: "srevds123!"
+
+SalesRepSit:
+ Username: "extremenet.salesrep@servicesource.com.sitextreme"
+ Password: "testextreme123!"
+
+SalesManagerSit:
+ Username: "extremenet.salesmgr@servicesource.com.sitextreme"
+ Password: "testextreme123!"
+
+OperationManagerSit:
+ Username: "extremenet.opsmgr@servicesource.com.sitextreme"
+ Password: "testextreme123!"
+
+OperationRepSit:
+ Username: "extremenet.opsrep@servicesource.com.sitextreme"
+ Password: "testextreme123!"
+
+SalesOperationSit:
+ Username: "extremenet.salesops@servicesource.com.sitextreme"
+ Password: "testextreme123!"
+
+
+EMEASalesRepSit:
+ Username: "extremenet.salesrep@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEASalesManagerSit:
+ Username: "extremenet.salesmgr@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEAOperationManagerSit:
+ Username: "extremenet.opsmgr@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEAOperationRepSit:
+ Username: "extremenet.opsrep@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEASalesOperationSit:
+ Username: "extremenet.salesops@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+ 

@@ -1,0 +1,387 @@
+[
+  {
+    "uri": "features/sampletest_opportunity_generation.feature",
+    "id": "",
+    "keyword": "Feature",
+    "name": "",
+    "description": "  In order to test the opportunity generation flow\n  As a automation tester\n  i should navigate to opportunity generation page and test all the functionalities",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@salesforce",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": ";opportunity-generation",
+        "keyword": "Scenario",
+        "name": "opportunity generation",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@salesforce",
+            "line": 1
+          },
+          {
+            "name": "@opportunity-generation",
+            "line": 7
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I should land on salesforce application homepage",
+            "line": 9,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I wait for \"2\" seconds",
+            "line": 10,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"ServiceSource Setup\" link",
+            "line": 11,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I follow \"\" link",
+            "line": 12,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"ServiceSource Setup\"",
+            "line": 13,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I follow \"Opportunity Generation\" link",
+            "line": 14,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"Opportunity Generation\"",
+            "line": 15,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uri": "features/sampletest_to_test_saleforce_service_source_setup_module.feature",
+    "id": "",
+    "keyword": "Feature",
+    "name": "",
+    "description": "  In order to land in saleforce service source webpage\n  As a registered user\n  I should navigate to saleforce service source setup module",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@salesforce",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": ";to-test-the-login-scenario",
+        "keyword": "Scenario",
+        "name": "to test the login scenario",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@salesforce",
+            "line": 1
+          },
+          {
+            "name": "@login",
+            "line": 7
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I should visit saleforce website",
+            "line": 9,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"Welcome to the Salesforce Customer Success Platform.\"",
+            "line": 10,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Login\" link",
+            "line": 11,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I follow \"Login\" link",
+            "line": 12,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I fill \"Username\" as \"qa-renewnetops-csmdev19@servicesource.com\"",
+            "line": 13,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I fill \"Password\" as \"pass@word1\"",
+            "line": 14,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should click on \"Log In\" button",
+            "line": 15,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"QA RenewNetOps at ServiceSource (Partner Main)\"",
+            "line": 16,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      },
+      {
+        "id": ";servicesourcesetup",
+        "keyword": "Scenario",
+        "name": "ServiceSourceSetup",
+        "description": "",
+        "line": 19,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@salesforce",
+            "line": 1
+          },
+          {
+            "name": "@ServiceSourceSetup",
+            "line": 18
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I should land on salesforce application homepage",
+            "line": 20,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I wait for \"2\" seconds",
+            "line": 21,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"ServiceSource Setup\" link",
+            "line": 22,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I follow \"ServiceSource Setup\" link",
+            "line": 23,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"ServiceSource Setup\"",
+            "line": 24,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Home\"",
+            "line": 25,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see:",
+            "line": 26,
+            "doc_string": {
+              "value": "Renewal Management\nConfigure where to track your renewal data, what and when to renew, and how to keep your\nrenewals accurate.",
+              "content_type": "",
+              "line": 27
+            },
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see:",
+            "line": 32,
+            "doc_string": {
+              "value": "Overview Administration\nManage your users Overview page including the focus categories that prioritize the\naccounts, opportunities, and tasks your users should touch first, along with the charts that appear in the carousel.",
+              "content_type": "",
+              "line": 33
+            },
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see:",
+            "line": 38,
+            "doc_string": {
+              "value": "Success Plan Definition\nCreate and manage success plans for your users, define key indicators for the plan and\nmanage the plays that drive best practices.",
+              "content_type": "",
+              "line": 39
+            },
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see the following links:",
+            "line": 44,
+            "match": {
+              "location": "C:/Ruby22/lib/ruby/gems/2.2.0/gems/cucumber-2.3.2/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

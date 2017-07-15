@@ -1,0 +1,3 @@
+run u1301
+now open any restricted site from the browser
+

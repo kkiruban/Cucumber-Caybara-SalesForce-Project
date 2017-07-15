@@ -1,0 +1,347 @@
+[
+  {
+    "uri": "features/Accounts.feature",
+    "id": "",
+    "keyword": "Feature",
+    "name": "",
+    "description": "  In order to validate account section\n  As a tester\n  I should validate the functionalities as per test case",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@mcafee",
+        "line": 1
+      },
+      {
+        "name": "@Account",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": ";us-004277-us-004337-us-004338-us-004362-add-shipping-address",
+        "keyword": "Scenario",
+        "name": "US-004277 US-004337 US-004338 US-004362 Add Shipping Address",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@mcafee",
+            "line": 1
+          },
+          {
+            "name": "@Account",
+            "line": 1
+          },
+          {
+            "name": "@US-004277",
+            "line": 7
+          },
+          {
+            "name": "@US-004337",
+            "line": 7
+          },
+          {
+            "name": "@US-004338",
+            "line": 7
+          },
+          {
+            "name": "@US-004362",
+            "line": 7
+          },
+          {
+            "name": "@admin-acc",
+            "line": 7
+          },
+          {
+            "name": "@om-acc",
+            "line": 7
+          },
+          {
+            "name": "@or-acc",
+            "line": 7
+          },
+          {
+            "name": "@sm-acc",
+            "line": 7
+          },
+          {
+            "name": "@sr-acc",
+            "line": 7
+          },
+          {
+            "name": "@so-acc",
+            "line": 7
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I should navigate to Accounts tab in saleforce application",
+            "line": 9,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 69046
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see accounts page successfully",
+            "line": 10,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I follow on \"New\" button",
+            "line": 11,
+            "match": {
+              "location": "features/Accounts.feature:11"
+            },
+            "result": {
+              "status": "undefined"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should see \"Shipping Address\" field with read and write permission for all except salesops user",
+            "line": 12,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Implementation Status\" field with read and write permission for all except salesops user",
+            "line": 13,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Implementation Status Reason\" field with read and write permission for all except salesops user",
+            "line": 14,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Health Status\" field with read and write permission for all except salesops user",
+            "line": 15,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Health Status Reason\" field with read and write permission for all except salesops user",
+            "line": 16,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Competitor\" field with read and write permission for all except salesops user",
+            "line": 17,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Upsell/Cross-sell Potential\" field with read and write permission for all except salesops user",
+            "line": 18,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Upsell/Cross-sell Product\" field with read and write permission for all except salesops user",
+            "line": 19,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"RLM Tier\" field with read and write permission for Ops Manager and Ops Rep",
+            "line": 20,
+            "match": {
+              "location": "features/Accounts.feature:20"
+            },
+            "result": {
+              "status": "undefined"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see \"Business Value\" field with read and write permission for all except salesops user",
+            "line": 21,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Implementation Status field picklist values in new account page",
+            "line": 22,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Implementation Status Reason field picklist values in new account page",
+            "line": 23,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Health Status field picklist values in new account page",
+            "line": 24,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Health Status Reason field picklist values in new account page",
+            "line": 25,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see RLM Tier field picklist values in new account page",
+            "line": 26,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Competitor field picklist values in new account page",
+            "line": 27,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Upsell/Cross-sell Potential field picklist values in new account page",
+            "line": 28,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Upsell/Cross-sell Product field picklist values in new account page",
+            "line": 29,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see Business Value field picklist values in new account page",
+            "line": 30,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "I enter all mandantory fields to create a random new account",
+            "line": 31,
+            "match": {
+              "location": "C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I click on \"Save\" button on top button row",
+            "line": 32,
+            "match": {
+              "location": "features/Accounts.feature:32"
+            },
+            "result": {
+              "status": "undefined"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

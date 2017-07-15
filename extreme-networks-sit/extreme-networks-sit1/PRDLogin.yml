@@ -1,0 +1,70 @@
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.extremenet"
+ Password: "srevds123!"
+
+SalesRepSit:
+ Username: "extremenet.salesrep@servicesource.com.extremenet"
+ Password: "testextreme123!"
+
+SalesManagerSit:
+ Username: "extremenet.salesmgr@servicesource.com.extremenet"
+ Password: "testextreme123!"
+
+OperationManagerSit:
+ Username: "extremenet.opsmgr@servicesource.com.extremenet"
+ Password: "testextreme123!"
+
+OperationRepSit:
+ Username: "extremenet.opsrep@servicesource.com.extremenet"
+ Password: "testextreme123!"
+
+SalesOperationSit:
+ Username: "extremenet.salesops@servicesource.com.extremenet"
+ Password: "testextreme123!"
+
+
+
+EMEASalesRepSit:
+ Username: "extremenet.salesrep@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEASalesManagerSit:
+ Username: "extremenet.salesmgr@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEAOperationManagerSit:
+ Username: "extremenet.opsmgr@servicesource.com.extremenet.emea"
+ Password: "testextreme123!"
+
+EMEAOperationRepSit:
+ Username: "extremenet.opsrep@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+EMEASalesOperationSit:
+ Username: "extremenet.salesops@servicesource.com.sitextreme.emea"
+ Password: "testextreme123!"
+
+
+
+NALASalesRepSit:
+ Username: "extremenet.salesrep@servicesource.com.sitextreme.nala"
+ Password: "testextreme123!"
+
+NALASalesManagerSit:
+ Username: "extremenet.salesmgr@servicesource.com.sitextreme.nala"
+ Password: "testextreme123!"
+
+NALAOperationManagerSit:
+ Username: "extremenet.opsmgr@servicesource.com.extremenet.nala"
+ Password: "testextreme123!"
+
+NALAOperationRepSit:
+ Username: "extremenet.opsrep@servicesource.com.sitextreme.nala"
+ Password: "testextreme123!"
+
+NALASalesOperationSit:
+ Username: "extremenet.salesops@servicesource.com.sitextreme.nala"
+ Password: "testextreme123!"
+
+

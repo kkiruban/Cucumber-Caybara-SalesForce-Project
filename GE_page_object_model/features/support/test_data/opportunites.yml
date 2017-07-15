@@ -1,0 +1,37 @@
+
+picklistvalues:
+  Direct/Channel: ["--None--","","",""]
+  Business Line: ["--None--","","",""]
+  Opportunity Currency: ["--None--","","",""]
+  Stage: ["--None--","","",""]
+  SSI Theatre: ["--None--","","",""]
+  Estimated Close Date: "3/15/2016"
+  Close Date: "3/15/2016"
+  Client Territory: ["--None--","","",""]
+  Client Region: ["--None--","","",""]
+  Country: ["--None--","","",""]
+  Status_picklist: ["Not Started","In Progress","Completed","Waiting on someone else","Deferred"]
+  Status_picklist_value: "In Progress"
+  Risk_Status_Reason_picklist_value: "No risk perceived - Customer Healthy"
+
+Textboxvalues:
+  Subject: "testuser"
+  Comments: "task detail comments"
+
+createopportunitytestdata:
+  Oppturnity_Name: "Pet_opp_test_1"
+  Account_Name: "PET_acc_test_1"
+  Direct_Channel: "Direct"
+  Business_Line: "Americas"
+  Opportunity_Type: "Volume"
+  Opportunity_Currency: "GBP - British Pound"
+  Stage: "Contacted"
+  SSI_Theatre: "EMEA"
+  Estimated_Close_Date: "3/15/2016"
+  Close_Date: "3/15/2016"
+  Client_Territory: "UK"
+  Client_Region: "UK"
+  Country: "India"
+
+Selecttaskrecordtype:
+  RecordTypeofnewrecord: "Zenith Task - Standard"

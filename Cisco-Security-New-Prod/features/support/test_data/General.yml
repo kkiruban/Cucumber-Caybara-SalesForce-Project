@@ -1,0 +1,40 @@
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitschneid"
+ Start_Row: 3
+ File_Path: "D:\\Qlike_Automation\\qlik-sit\\Qlik V1.2.xlsx"
+ 
+CommonData:
+  CurrencyCode: ["AED","ARS","AUD","BRL","CAD","CHF","CNY","CZK","DKK","EUR","GBP","HKD","INR","ISK","JPY","MXN","NOK","NZD","PLN","RUB","SEK","SGD","USD"]
+  #ExchangeRate: [AED="0.2723",ARS="0.0709",AUD="0.7075",BRL="0.2518",CAD="0.7142",CHF="0.9809",CNY="0.152",CZK="0.0404",DKK="0.1462",EUR="1.1",GBP="1.4407",HKD="0.1285",INR="0.0147",ISK="0.0078",JPY="0.0083",MXN="0.0545",NOK="0.1149",NZD="0.7285",PLN="0.248",RUB="0.0151",SEK="0.117",SGD="0.7016",USD="1"]
+
+ExchangeRate:
+  AED: '0.2723'
+  ARS: '0.0709'
+  AUD: '0.7075'
+  BRL: '0.2518'
+  CAD: '0.7142'
+  CHF: '0.9809'
+  CNY: '0.152'
+  CZK: '0.0404'
+  DKK: '0.1462'
+  EUR: '1.1'
+  GBP: '1.4407'
+  HKD: '0.1285'
+  INR: '0.0147'
+  ISK: '0.0078'
+  JPY: '0.0083'
+  MXN: '0.0545'
+  NOK: '0.1149'
+  NZD: '0.7285'
+  PLN: '0.248'
+  RUB: '0.0151'
+  SEK: '0.117'
+  SGD: '0.7016'
+  USD: '1'

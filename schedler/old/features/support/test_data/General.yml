@@ -1,0 +1,13 @@
+
+
+AdminUsers:
+ SheetName: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ UserRefer: ".sitschneid"
+ Start_Row: 3
+ File_Path: "\\Schneider_1_Platform_Config_Workbook_2.10.xlsx"

@@ -1,0 +1,10 @@
+---
+account_details:
+ account_currency: "CAD - Canadian Dollar,EUR - Euro,GBP - British Pound,UAH - Ukraine Hryvnia,USD - U.S. Dollar"
+ industry: ["--None--", "Agriculture", "Apparel", "Banking", "Biotechnology", "Chemicals", "Communications", "Construction", "Consulting", "Education", "Electronics", "Energy", "Engineering", "Entertainment", "Environmental", "Finance", "Food & Beverage", "Government", "Healthcare", "Hospitality", "Insurance", "Machinery", "Manufacturing", "Media", "Not For Profit", "Other", "Recreation", "Retail", "Shipping", "Technology", "Telecommunications", "Transportation", "Utilities", "Accounting", "Broadcasting Printing and Publishing", "Brokers", "Building Supply Retail", "Business Services", "Consumer Services", "Distributors, Dispatchers and Processors", "Doctor's Offices and Clinics", "Durable Manufacturing", "Eating and Drinking Places", "Entertainment Retail", "Equipment Rental and Leasing", "Financial", "Food and Tobacco Processing", "Inbound Capital Intensive Processing", "Inbound Repair and Services", "Legal Services", "Non-Durable Merchandise Retail", "Outbound Consumer Service", "Service Retail", "SIG Affiliations", "Social Services", "Special Outbound Trade Contractors", "Specialty Realty", "Utility Creation and Distribution", "Vehicle Retail", "Wholesale", "Agriculture and Non-petrol Natural Resource Extraction", "Design, Direction and Creative Management", "Petrochemical Extraction and Distribution"]
+ type: ["--None--", "Analyst", "Competitor", "Customer", "Integrator", "Investor", "Partner", "Press", "Prospect", "Reseller", "Other", "End User", "Distributor", "Third Party", "Client"]
+ channel_tier: "--None--,Channel Tier 1,Channel Tier 2"
+
+
+ 
+ 

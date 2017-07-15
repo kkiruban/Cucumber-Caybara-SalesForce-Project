@@ -1,0 +1,25 @@
+
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.sitatrisk"
+ Password: "srevds123!"
+
+OperationManagerSit:
+ Username: "atrisk.opsmgr@servicesource.com.sitatrisk"
+ Password: "testatrisk123!"
+
+OperationRepSit:
+ Username: "atrisk.opsrep@servicesource.com.sitatrisk"
+ Password: "testatrisk123!"
+
+SalesManagerSit:
+ Username: "atrisk.salesmgr@servicesource.com.sitatrisk"
+ Password: "testatrisk123!"
+ 
+SalesRepSit:
+ Username: "atrisk.salesrep@servicesource.com.sitatrisk"
+ Password: "testatrisk123!"
+
+SalesOperationSit:
+ Username: "atrisk.salesops@servicesource.com.sitatrisk"
+ Password: "testatrisk123!"

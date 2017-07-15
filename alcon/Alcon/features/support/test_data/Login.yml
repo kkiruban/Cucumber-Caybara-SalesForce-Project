@@ -1,0 +1,24 @@
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.sitalcon"
+ Password: "srevds123!"
+
+opsmgrsit:
+ Username: "alcon.opsmgr@servicesource.com.sitalcon"
+ Password: "testalcon123!"
+
+opsrepsit:
+ Username: "alcon.opsrep@servicesource.com.sitalcon"
+ Password: "testalcon123!"
+
+salesrepsit:
+ Username: "alcon.salesrep@servicesource.com.sitalcon"
+ Password: "testalcon123!"
+
+salesmgrsit:
+ Username: "alcon.salesmgr@servicesource.com.sitalcon"
+ Password: "testalcon123!"
+
+salesopssit:
+ Username: "alcon.salesops@servicesource.com.sitalcon"
+ Password: "testalcon123!"

@@ -1,0 +1,232 @@
+
+
+RenewalLineItemDetails:
+ NoOpportunitiesMessage: "No records to display."
+ RenewalOpportunityTextBox: "text"
+ OpportunityExistingProductField: "Existing Product"
+ OpportunityExistingStartDateField: "Existing Start Date"
+ OpportunityNewStartDateField: "New Start Date"
+ OpportunityQuantityField: "Quantity"
+ OpportunityExistingEndDateField: "Existing End Date"
+ OpportunityNewEndDateField: "New End Date"
+ OpportunityPreviousLocalCurrencyAmountField: "Previous Local Currency Amount"
+ OpportunityOwnerField: "Owner"
+ OpportunityPreviousLocalCurrencyCodeField: "Previous Local Currency Code"
+ OpportunityCurrencyField: "Currency"
+ OpportunityRenewalTargetMultiplierField: "Renewal Target Multiplier"
+ LocalCurrencyLineTotalField: "Local Currency Line Total"
+ SingleProductCheckboxIndex: "1"
+ FindProductSearchButton: "Search"
+ QuoteSyncAttentionMessage: "Attention"
+ QuoteSyncAttentionContinueButton: "Continue"
+ OpportunityExistingProductValue: "Smoke_Test_Product"
+ OpportunityExistingStartDateValue: "2/1/2017"
+ OpportunityNewStartDateValue: "2/1/2017"
+ OpportunityQuantityValue: "10"
+ OpportunityExistingEndDateValue: "2/1/2018"
+ OpportunityNewEndDateValue: "2/1/2018"
+ OpportunityPreviousLocalCurrencyAmountValue: "126"
+ OpportunityPreviousLocalCurrencyCodeValue: "EUR"
+ OpportunityCurrencyValue: "USD"
+ OpportunityBatchTypeField: "Batch Type"
+ OpportunityBatchTypeValue: "Renewal"
+ OpportunityConvertedEURCurrencyValue: "135"
+ OpportunityRenewalTargetMultiplierValue: "132"
+ LocalCurrencyLineTotalValue: "145"
+ NewOpportunityName: "Smoke_test_opportunity"
+ NoOpportunityResults: "No matches found"
+ OpportunityDetailsPage: "Opportunity Detail"
+ OpportunityProduct: "test_product"
+ NewQuoteName: "Smoke_Test_Quote_"
+ QuoteTypeField: "Quote Type"
+ QuoteTypeValue: "Direct"
+ QuoteTypeYearField: "Quote Type Year"
+ QuoteTypeYearValue: "2"
+ LocalCurrencyCodeField: "Local Currency Code"
+ LocalCurrencyCodeValue: "CAD"
+ OpportunityProductName: "smoke_test"
+ ProductSelectButton: "Select"
+ ProductQuantity: "1"
+ ProductSalesPrice: "1500"
+ QuoteStopSyncButton: "Stop Sync"
+ OpportunityRenewableLineItemDetail: "Renewable Line Item Detail"
+ OpportunityRenewalRelationshipDetails: "Renewal Relationship Details"
+ QuoteDetailPage: "Quote Detail"
+ QuoteLineItemDetailPage: "Quote Line Item Detail"
+ FinancialAndCoverageDetailsSection: "Financial and Coverage Details"
+ RelatedSectionNoRecordsMessage: "No records to display"
+ RLIHealthStatusField: "Health Status"
+ RLIHealthStatusValue: "Green"
+ RLIHealthStatusReasonField: "Health Status Reason"
+ RLIHealthStatusReasonValue: "No Risk Perceived - Customer Healthy"
+ RLIUpSellLikelihoodField: "Upsell Likelihood"
+ RLIUpSellLikelihoodValue: "<60 Days"
+ RLIOnBoardingField: "Onboarding"
+ RLIOnBoardingValue: "Yes"
+ RLISegmentationTagField: "Segmentation Tag"
+ RLISegmentationTagValue: "10"
+ RLICompetitorNameField: "Competitor Name"
+ RLICompetitorNameValue: "Smoke_Test_Competitor"
+ RLIProductFeedbackField: "Product Feedback"
+ RLIProductFeedbackSelectionName: "Product Feedback - Available"
+ RLIProductFeedbackValue: "Features"
+ RLIUpSellProductsField: "Upsell Product(s)"
+ RLIUpSellProductsSelectionName: "Upsell Product(s) - Available"
+ RLIUpSellProductsValue: "Qlik Sense"
+ RLIBusinessValueField: "Business Value"
+ RLIBusinessValueSelectionName: "Business Value - Available"
+ RLIBusinessValueOption: "Business Analytics"
+ RLIPreviousPriceField: "Previous Price"
+ RLIPreviousPriceValue: "136"
+
+
+
+
+RLIPreviousLocalCurrencyCodePickListValues:
+ RLIPreviousLocalCurrencyCodeAED: "AED"
+ RLIPreviousLocalCurrencyCodeARS: "ARS"
+ RLIPreviousLocalCurrencyCodeAUD: "AUD"
+ RLIPreviousLocalCurrencyCodeBRL: "BRL"
+ RLIPreviousLocalCurrencyCodeCAD: "CAD"
+ RLIPreviousLocalCurrencyCodeCHF: "CHF"
+ RLIPreviousLocalCurrencyCodeCNY: "CNY"
+ RLIPreviousLocalCurrencyCodeCZK: "CZK"
+ RLIPreviousLocalCurrencyCodeDKK: "DKK"
+ RLIPreviousLocalCurrencyCodeEUR: "EUR"
+ RLIPreviousLocalCurrencyCodeGBP: "GBP"
+ RLIPreviousLocalCurrencyCodeHKD: "HKD"
+ RLIPreviousLocalCurrencyCodeINR: "INR"
+ RLIPreviousLocalCurrencyCodeISK: "ISK"
+ RLIPreviousLocalCurrencyCodeJPY: "JPY"
+ RLIPreviousLocalCurrencyCodeMXN: "MXN"
+ RLIPreviousLocalCurrencyCodeNOK: "NOK"
+ RLIPreviousLocalCurrencyCodeNZD: "NZD"
+ RLIPreviousLocalCurrencyCodePLN: "PLN"
+ RLIPreviousLocalCurrencyCodeRUB: "RUB"
+ RLIPreviousLocalCurrencyCodeSEK: "SEK"
+ RLIPreviousLocalCurrencyCodeSGD: "SGD"
+ RLIPreviousLocalCurrencyCodeUSD: "USD"
+
+
+RLIHealthStatusPickListValues:
+ RLIHealthStatusBlack: "Black"
+ RLIHealthStatusGreen: "Green"
+ RLIHealthStatusRed: "Red"
+
+
+
+#HealthStatusReason:
+# CustomerHealthy: "No Risk Perceived - Customer Healthy"
+# Customer: "Customer Unresponsive"
+# CustomerSuccessEscalation: "Customer Success - Escalation"
+# LackOfUseTraining: "Risk – Lack of use: Training"
+# ProductComplexity: "Risk – Lack of use: Product Complexity"
+# ValuePerception: "Risk – Lack of use: Value perception"
+# ChangeInBusinessNeeds: "Risk – Lack of use: Change in business/needs"
+# ChangeManagement: "Risk – Lack of use: Change management"
+# DowngradeSupport: "Risk – Lack of use: Downgrade Support"
+# CostOfProductService: "Risk – Price: Cost of product/service"
+# PriceBudget: "Risk – Price: Budget"
+# ValuePerception: "Risk – Price: Value Perception"            
+# RiskParty: "Risk – Competitor: 3rd party"
+# RiskInHouse: "Risk – Competitor: In-house"
+# ProductReplacement: "Risk – Competitor: Product Replacement"
+# RiskPricing: "Risk – Competitor: Pricing"
+# UniqueOffering: "Risk – Competitor: Unique Offering"
+# PerformanceIssues: "Risk – Product/Service performance: Performance issues"
+# OverSold: "Risk – Product/Service performance: Over-sold"
+# NotMeetingOutcomes: "Risk – Product/Service performance: Not meeting outcomes"
+# RiskEOL: "Risk – Product/Service performance: EOL"
+# ProductReplacement: "Risk – Product/Service performance: Product Replacement (internal)"
+# PoorCustomerExperience: "Risk -  CSAT : Poor customer experience"
+# OutOfBusiness: "Risk – Cease of Business: Out of Business"
+# RiskMA: "Risk – Cease of Business: M&A"
+# BusinessBank: "Risk – Cease of Business: Bankruptcy"
+# RiskOther: "Risk – Other"
+
+
+
+RLIUpSellLikelihoodPickListValues:
+ RLIUpSellLikelihood30Days: "<30 Days"
+ RLIUpSellLikelihood60Days: "<60 Days"
+ RLIUpSellLikelihood90Days: "<90 Days"
+ RLIUpSellLikelihood90PlusDays: ">90+ Days"
+
+
+
+RLIOnBoardInPickListValues:
+ RLIOnBoardInYes: "Yes"
+ RLIOnBoardInNo: "No"
+
+
+RLIProductFeedbackPickListValues:
+ ProductFeedbackFeatures: "Features"
+ ProductFeedbackFunctionality: "Functionality"
+ ProductFeedbackCloud: "Cloud"
+ ProductFeedbackOther: "Other"
+
+
+RLIUpSellProductsPickListValues:
+ RLIUpSellProductsSupportEnterprise: "Support - Enterprise"
+ RLIUpSellProductsQLikSense: "Qlik Sense"
+ RLIUpSellProductsQLikView: "QlikView"
+ RLIUpSellProductsQLikNprinting: "Qlik Nprinting"
+ RLIUpSellProductsQLikAnalyticsPlatform: "Qlik Analytics Platform"
+ RLIUpSellProductsQLikDataMarket: "Qlik DataMarket"
+ RLIUpSellProductsQLikGeoAnalytics: "Qlik GeoAnalytics"
+ RLIUpSellProductsQLikConnectors: "Qlik Connectors"
+ RLIUpSellProductsAdditionalLicenses: "Additional Licenses"
+ RLIUpSellProductsTraining: "Training"
+ RLIUpSellProductsConsulting: "Consulting"
+ RLIUpSellProductsOther: "Other"
+
+
+RLIBusinessValuePickListValues:
+ RLIBusinessValueBusinessAnalytics: "Business Analytics"
+ RLIBusinessValueDataManagement: "Data Management"
+ RLIBusinessValueDataVisualization: "Data Visualization"
+ RLIBusinessValueDataDistribution: "Data Distribution"
+ RLIBusinessValueDataDiscovery: "Data Discovery"
+ RLIBusinessValueEmbeddedAnalytics: "Embedded Analytics"
+ RLIBusinessValueExternalDataFeeds: "External Data Feeds"
+ RLIBusinessValueOther: "Other"
+
+
+
+
+NewTaskInformation:
+ TaskEmail: "Task - Email"
+ TaskFax: "Task - Fax"
+ TaskPhoneCalls: "Task - Phone Calls"
+ TaskStandard: "Task - Standard"
+ TasksHealthCheck: "Health Check"
+ MyTasksSection: "My Tasks"
+ TaskContactName: "smoke_test"
+ TaskRelatedTo: "smoke_test"
+ TaskPriority: "Normal"
+ TaskStatus: "Not Started"
+ TaskDueDate: "11/13/2017"
+ TaskSubjectName: "Smoke_Test_"
+ TaskComments: "Smoke Testing"
+ TaskDirection: "Incoming"
+ TaskHealthStatusReason: "Past due invoices"
+ NoOpenTasksMessage: "You have no open tasks scheduled for this period"
+
+
+TasksStatusPickListValues:
+ TasksStatusNotStarted: "Not Started"
+ TasksStatusInitiated: "Initiated"
+ TasksStatusInProgress: "In Progress"
+ TasksStatusCompletedSuccessfully: "Completed Successfully"
+ TasksStatusCompletedUnsuccessfully: "Completed Unsuccessfully"
+
+
+
+
+
+CommonData:
+ Role: ["Alternate Contact","Billing Contact","Collections Contact","Maintenance Renewals","Invoicing","Primary Contact","Sphere of Influence","Technical Contact"]
+ Sales Center: ["Kuala Lumpur","Nashville","Manila","Sofia"]
+
+
+

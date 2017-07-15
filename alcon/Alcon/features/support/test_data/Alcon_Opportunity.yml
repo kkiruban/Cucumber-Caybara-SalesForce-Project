@@ -1,0 +1,20 @@
+---
+opportunity_details:
+ invoicing: "--None--,Agency,Accounts Receivable"
+ quarterly_forecast: "--None--,Yes,No,Upside"
+ revised_returned: "--None--,Internal ServiceSource Error,Customer Requested Change,Guidance Requested Change"
+ worked_by: "--None--,Operations,Sales"
+ data_exclusion_type: "--None--,Valid Data,Storing Data for Portal Visibility Only,Storing Data for Internal Visibility Only"
+ direct_channel: "--None--,Direct,Channel Tier 1,Channel Tier 2"
+ partner_account_1_type: "--None--,Reseller,Distributor"
+ partner_account_2_type: "--None--,Reseller,Distributor"
+ business_line: ["--None--", "Core", "EMEA", "EnCase Enterprise", "EnCase Forensic"]
+ client_region: "--None--,EMEA,APAC,NALA,LATAM"
+ commit_level: "--None--,Black,Red,Yellow,Green,None"
+ ssi_theatre: "--None--,APJ,EMEA,NALA,APAC,LATAM"
+ quote_type: "--None--,Direct,Reseller,Distributor,1 Year Distributor,2 Year Distributor,3 Year Distributor,1 Year Reseller,2 Year Reseller,3 Year Reseller,1 Year Direct,2 Year Direct,3 Year Direct"
+ quote_type_year: "--None--,1,2,3,4,5"
+ batch_type: ["--None--", "Expired", "Renewal", "Adds/Recovery Expired", "Adds/Recovery Renewal", "Adds/Recovery Uncovered", "Renewals - Late Data", "Adds - Late Data", "Adds"]
+ ssi_sub_result_reason: ["--None--", "CS - Renewed at Par - R@P"]
+ 
+

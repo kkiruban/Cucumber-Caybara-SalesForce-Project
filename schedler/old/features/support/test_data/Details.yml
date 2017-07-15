@@ -1,0 +1,96 @@
+
+
+AccountTypePickListValues:
+ TypePartner: "Partner"
+ TypeProximity: "PROXIMITY"
+ TypeDosti: "Disti"
+
+
+AccountLeadStatusPickListValues:
+ LeadStatusContacted: "Contacted"
+ LeadStatusNurturing: "Nurturing"
+ LeadStatusQualified: "Qualified"
+ LeadStatusUnqualified: "Unqualified"
+ LeadStatusOnHold: "On Hold"
+
+
+NewContactInformation:
+ NoContactsMessage: "No Records to display."
+ ContactFirstName: "PES"
+ ContactLastName: "PES_Contact_"
+ ContactAccountName: "Test Account"
+
+
+NewLeadInformation:
+ FirstName: "PES"
+ LeadStatus: "Contacted"
+ LastName: "PES_Lead_"
+ Company: "SalesForce"
+ LeadCurrency: "USD - U.S. Dollar"
+
+
+NewAccountInformation:
+ AccountName: "Account Name"
+ ParentAccount: "Parent Account"
+ AccountCurrency: "Account Currency"
+ AccountOwner: "Account Owner"
+ AccountType: "Type"
+
+
+NewTaskInformation:
+ TaskEmail: "Task - Email"
+ TaskFax: "Task - Fax"
+ TaskInbox: "Task - Inbox"
+ TaskPhoneCalls: "Task - Phone Calls"
+ TaskStandard: "Task - Standard"
+ MyTasksSection: "My Tasks"
+ TaskAssignedTo: "Assigned To"
+ AdminAssignedTo: "DSIntegration Admin"
+ OpeManagerAssignedTo: "Operations Manager Schneider"
+ SalesManagerAssignedTo: "Sales Manager Schneider"
+ SalesRipAssignedTo: "Sales Rep Schneider"
+ OpesRipAssignedTo: "Operations Rep Schneider"
+ SalesOpsAssignedTo: "Sales Ops Schneider"
+ TaskContactName: "PES"
+ TaskRelatedTo: "Smoke"
+ TaskPriority: "Normal"
+ TaskStatus: "Not Started"
+ TaskDueDate: "11/13/2017"
+ TaskComments: "PES Testing"
+ TaskDirection: "Incoming"
+ TaskHealthStatusReason: "Past due invoices"
+ NoOpenTasksMessage: "You have no open tasks scheduled for this period"
+
+
+NewCasesInformation:
+ CaseTypeBookingRequest: "Booking Request"
+ CaseTypeDataUpdateRequest: "Data Update Request"
+ CaseTypeLeadSubmission: "Lead Submission"
+ CaseTypeQuoteRequest: "Quote Request"
+ CaseTypeReportingRequest: "Reporting Request"
+ CasesStatus: "New"
+ CasesSubCaseType: "New"
+ CasesLeadSubCaseType: "None"
+ CasesDataUpdateRequest: "Booking Reconciliation"
+ CasesRenewalStatusValue: "House Account"
+ CasesDescription: "PES Testing"
+ CasesContractAmount: "100"
+ CasesPriority: "High"
+ ProductThasNeedsToBeQuoted: "Product Quoted"
+ ApplicableDiscounts: "Discounts"
+ LeadSubmissionDetailsSection: "Lead Submission Details"
+ NewTermDates: "New Terms and Conditions"
+ CasesQuoteType: "1 Year"
+ CasesOpportunity: "Smoke"
+ BookingRequestDetails: "Booking Request Details"
+ CasesContactName: "PES"
+ CasesAdminContactName: "DSIntegration Admin"
+ QuoteRequestDetailsSection: "Quote Request Details"
+ CasesTargetDate: "12/15/2016"
+ CaseOpportunityName: "Smoke"
+ CaseContactName: "PES_Contact"
+ CaseSaveButton: "Save"
+ CasesDetailsPage: "Case Detail"
+ NoCasesMessage: "No Records to display."
+
+

@@ -1,0 +1,7 @@
+## YAML Template.
+---
+sales_force_axiom:
+    base_url: https://test.salesforce.com
+
+sales_force_murugan:
+    base_url: https://www.salesforce.com/in/?ir=1

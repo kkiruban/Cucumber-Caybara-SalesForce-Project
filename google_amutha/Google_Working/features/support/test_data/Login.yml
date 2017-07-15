@@ -1,0 +1,24 @@
+
+Admin:
+  Username: "dsintegration-admin@servicesource.com.sitgoog1p"
+  Password: "srevds123!"
+
+opsmgrsit:
+  Username: "google.opsmgr@servicesource.com.sitgoog1p"
+  Password: "testgoogle123!"
+
+opsrepsit:
+  Username: "google.opsrep@servicesource.com.sitgoog1p"
+  Password: "testgoogle123!"
+
+salesrepsit:
+  Username: "google.salesrep@servicesource.com.sitgoog1p"
+  Password: "testgoogle123!"
+
+salesmgrsit:
+  Username: "google.salesmgr@servicesource.com.sitgoog1p"
+  Password: "testgoogle123!"
+
+salesopssit:
+ Username: "google.salesops@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"

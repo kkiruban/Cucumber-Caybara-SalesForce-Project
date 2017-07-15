@@ -1,0 +1,24 @@
+
+Admin:
+ Username: "dsintegration-admin@servicesource.com.sitwebex"
+ Password: "srevds123!"
+
+opsmgrsit:
+ Username: "ciscowebex.opsmgr@servicesource.com.sitwebex"
+ Password: "testciscowebex123!"
+
+opsrepsit:
+ Username: "ciscowebex.opsrep@servicesource.com.sitwebex"
+ Password: "testciscowebex123!"
+
+salesrepsit:
+ Username: "ciscowebex.salesrep@servicesource.com.sitwebex"
+ Password: "testciscowebex123!"
+
+salesmgrsit:
+ Username: "ciscowebex.salesmgr@servicesource.com.sitwebex"
+ Password: "testciscowebex123!"
+
+salesopssit:
+ Username: "ciscowebex.salesops@servicesource.com.sitwebex"
+ Password: "testciscowebex123!"
