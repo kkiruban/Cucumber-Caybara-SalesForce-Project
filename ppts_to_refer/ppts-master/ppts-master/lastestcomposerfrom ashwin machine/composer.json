@@ -1,0 +1,22 @@
+{
+    "require": {
+        "behat/behat": "2.4.*@stable",
+        "behat/mink": "1.5.*@stable",
+        "behat/mink-selenium-driver": "1.1.0",
+        "behat/mink-selenium2-driver": "1.1.1",
+        "symfony/process": "*",
+        "behat/symfony2-extension": "1.0.2",
+        "symfony/form": "*",
+        "symfony/validator": "*",
+        "behat/mink-extension": "1.1.4",
+        "symfony/http-kernel": "*",
+        "drupal/drupal-extension": "0.1.4",
+        "sensiolabs/behat-page-object-extension": "*",
+        "bossa/phpspec2-expect": "v1.0.3"
+    },
+    "minimum-stability": "stable",
+    "config": {
+      "bin-dir": "bin/",
+      "github-protocols": ["https", "git"]
+    }
+}
